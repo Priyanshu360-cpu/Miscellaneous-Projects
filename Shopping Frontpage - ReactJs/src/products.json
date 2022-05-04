@@ -1,0 +1,32 @@
+[{
+    "title": "Techie Bot",
+    "id": "Techie™#4165",
+    "description": "A Perfect Bot for your Discord Server",
+    "price": 2000.00,
+    "image": "https://cdn.discordapp.com/avatars/741280410180386947/97ddc40395dfa5312cdbf02f4da07d7a.png?size=256"
+  },{
+    "title": "Owo Bot",
+    "id": "Owo",
+    "description": "A Game Bot for your Discord Server",
+    "price": 2050.0,
+    "image": "https://cdn.discordapp.com/avatars/408785106942164992/0b42be9386cf6fbe96861429a9774a89.png?size=256"
+  },{
+    "title": "NqN Bot",
+    "id": "nqn",
+    "description": "A Sticker Bot for your Discord Server",
+    "price": 2050.00,
+    "image": "https://cdn.discordapp.com/avatars/559426966151757824/c7c54eb85e591ced4c2f0864b7ea4e3e.png?size=256"
+  },{
+    "title": "MarhsMaillo Bot",
+    "id": "marsh",
+    "description": "A Modmail Bot for your Discord Server",
+    "price": 3050.00,
+    "image": "https://cdn.discordapp.com/avatars/768603280351297568/160739acc5e195b4861f065cc50a74da.png?size=256"
+  },{
+    "title": "Radio Mirchi Bot",
+    "id": "Mirchi",
+    "description": "A Music Bot for your Discord Server",
+    "price": 1050.00,
+    "image": "https://cdn.discordapp.com/avatars/803919631768485898/a7580cfdac98c49fc795dfcc020ded5a.png?size=256"
+  }
+]
